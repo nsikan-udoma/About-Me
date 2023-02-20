@@ -27,6 +27,5 @@ Below are tools I use and skills outlining the foundation of my career:
 • Google Analytics
 • Operations Management
 
-
+Got a startup or an exciting project and need collaboration? 🚀
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nsikanudoma)
-
