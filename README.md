@@ -11,21 +11,21 @@ I am a fast learner and a self-starter who can work independently as well as par
 Have a look at my projects section or click on my portfolio link to see some exciting Tableau projects I have worked on with publicly available datasets.
 
 Below are tools I use and skills outlining the foundation of my career:
-• Data Visualization (Tableau)
-• SQL (PostgreSQL, MySQL, and SQLite)
-• Integrating with Data Warehouses (Azure Databricks, AWS Redshift, Google BigQuery, Snowflake)
-• Python (Pandas, Numpy, Matplotlib, Regex, Pandasql, sqlalchemy)
-• A/B Testing (Hypothesis Testing) with Python
-• Spreadsheets: MS Excel & Google Sheets (Pivot Tables, Conditional Formatting, VLOOKUP's, Logical Functions, Conditional Aggregation functions)
-• Exploratory & Explanatory Data Analysis
-• Data Gathering from Multiple Sources (APIs, URL requests, Web Scraping)
-• ETL (Extract-Transform-Load) using Azure Data Factory, AWS Data Pipeline, AWS Glue, Google Cloud Dataflow.
-• ELT (Extract-Load-Transform)  using Airbyte, Stitch and Hevo.
-• Data Wrangling/Data Cleaning
-• Version control with Git and GitHub Repositories
-• Business Intelligence & Marketing Analytics
-• Google Analytics
-• Operations Management
+- Data Visualization (Tableau)
+- SQL (PostgreSQL, MySQL, and SQLite)
+- Integrating with Data Warehouses (Azure Databricks, AWS Redshift, Google BigQuery, Snowflake)
+- Python (Pandas, Numpy, Matplotlib, Regex, Pandasql, sqlalchemy)
+- A/B Testing (Hypothesis Testing) with Python
+- Spreadsheets: MS Excel & Google Sheets (Pivot Tables, Conditional Formatting, VLOOKUP's, Logical Functions, Conditional Aggregation functions)
+- Exploratory & Explanatory Data Analysis
+- Data Gathering from Multiple Sources (APIs, URL requests, Web Scraping)
+- ETL (Extract-Transform-Load) using Azure Data Factory, AWS Data Pipeline, AWS Glue, Google Cloud Dataflow.
+- ELT (Extract-Load-Transform)  using Airbyte, Stitch and Hevo.
+- Data Wrangling/Data Cleaning
+- Version control with Git and GitHub Repositories
+- Business Intelligence & Marketing Analytics
+- Google Analytics
+- Operations Management
 
 Got a startup or an exciting project and need collaboration? 🚀
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nsikanudoma)
