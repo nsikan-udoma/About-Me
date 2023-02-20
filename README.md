@@ -28,4 +28,5 @@ Below are tools I use and skills outlining the foundation of my career:
 • Operations Management
 
 
-Connect with me on ![LinkedIn](https://www.linkedin.com/in/nsikanudoma)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nsikanudoma)
+
