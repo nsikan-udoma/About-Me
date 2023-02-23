@@ -2,7 +2,7 @@
 
 Hi there 👋🏽 
 
-I'm a Data Analyst with experience using Agile methodologies. I am proficient in creating complex SQL queries, troubleshooting and debugging existing queries for performance tuning and faster run time. I have experience with PostgreSQL, MySQL, SQL Server & SQLite to extract, manipulate, and analyze data from various relational databases, cloud platforms including AWS, Google Cloud Platform (GCP) and Microsoft Azure and their respective data warehouses including Redshift, Big Query and Azure Databricks. 
+I'm a Data Analyst with experience using Agile methodologies. I am proficient in creating complex SQL queries, troubleshooting and debugging existing queries for performance tuning and faster run time. I have experience with PostgreSQL, MySQL, SQL Server & SQLite to extract, manipulate, and analyze data from various relational databases, and cloud platforms including AWS, Google Cloud Platform (GCP) and Microsoft Azure and their respective data warehouses including Redshift, Big Query and Azure Databricks. 
 
 I have a proven record of presenting meaningful business insights from large datasets using dashboards and visualizations in Tableau. I am also well-versed in Python and continuously use it to write scripts for data cleaning, data transformation and for automating workflows and data wrangling tasks. For smaller size datasets, I turn to MS Excel or Google Sheets to conduct advanced or less complex exploratory and explanatory data analysis.
 
