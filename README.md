@@ -14,7 +14,7 @@ Below are tools I use and skills outlining the foundation of my career:
 - Data Visualization (Tableau)
 - SQL (PostgreSQL, MySQL, and SQLite)
 - Integrating with Data Warehouses (Azure Databricks, AWS Redshift, Google BigQuery, Snowflake)
-- Python (Pandas, Numpy, Matplotlib, Regex, Pandasql, sqlalchemy)
+- Python (pandas, numpy, matplotlib, seaborn, regex, pandasql, sqlalchemy)
 - A/B Testing (Hypothesis Testing) with Python
 - Spreadsheets: MS Excel & Google Sheets (Pivot Tables, Conditional Formatting, VLOOKUP's, Logical Functions, Conditional Aggregation functions)
 - Exploratory & Explanatory Data Analysis
