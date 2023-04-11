@@ -33,4 +33,5 @@ Have a look at my latest data analytics project: Customer Churn Analysis (End-to
 <br>
 
 Got an exciting project and need collaboration? 🚀 Or you want to discuss a Data Analyst opening at your company? 📈
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nsikanudoma)
