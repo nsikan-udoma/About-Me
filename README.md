@@ -27,8 +27,10 @@ Below are tools I use and skills outlining the foundation of my career:
 - Google Analytics
 - Operations Management
 
-Have a look at my latest data analytics project where I make use of SQL, Python and Tableau to ...
+Have a look at my latest data analytics project: Customer Churn Analysis (End-to-End Project using SQL, Python and Tableau) that involved exploratory analysis with SQL, a deep-dive EDA using Python, and building an interactive dashboard with Tableau to present meaningful business insights for the bank.
 [Link to Credit Card Customer Churn Analysis](https://github.com/nsikan-udoma/customer_churn_analysis-SQL-Python-Tableau)
+
+<br>
 
 Got a startup or an exciting project and need collaboration? 🚀
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nsikanudoma)
