@@ -2,7 +2,7 @@
 
 Hi there 👋🏽 
 
-I'm a Data Analyst with with extensive experience in Data Modeling, Warehousing, Manipulation, Visualization, Scripting and Reporting, Business Intelligence, Business Analytics. 
+I'm a Data & Business Intelligence Analyst with with extensive experience in Data Modeling, Warehousing, Manipulation, Visualization, Scripting and Reporting, Business Intelligence, Business Analytics. 
 
 **TECHNICAL COMPETENCE**
 - Data Engineering: Data Modeling, Database & Schemas, Data Ingestion/Migration, SQL Performance Tuning, Structured/Semi-structured/Unstructured Data
